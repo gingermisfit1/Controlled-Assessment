@@ -1,5 +1,5 @@
 allowables = ["pounds", "dollars", "euro", "yen"]
-rates = [1,1.7,1.25, 173] #shows exchange rates for each of the currencies
+rates = [1,1.7,1.25, 173] #shows exchange rates for each of the currencies 
 pounds = 'pounds'
 dollars = 'dollars'
 yen = 'yen'
